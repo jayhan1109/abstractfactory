@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/CST/Term3/oop/Labs/abstractfactory/main.cpp" "C:/CST/Term3/oop/Labs/abstractfactory/cmake-build-debug/CMakeFiles/abstractfactory.dir/main.cpp.obj"
+  "C:/CST/Term3/oop/Labs/abstractfactory/maze_factory.cpp" "C:/CST/Term3/oop/Labs/abstractfactory/cmake-build-debug/CMakeFiles/abstractfactory.dir/maze_factory.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

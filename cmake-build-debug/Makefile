@@ -169,6 +169,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\abstractfactory.dir\build.make CMakeFiles/abstractfactory.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+maze_factory.obj: maze_factory.cpp.obj
+
+.PHONY : maze_factory.obj
+
+# target to build an object file
+maze_factory.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\abstractfactory.dir\build.make CMakeFiles/abstractfactory.dir/maze_factory.cpp.obj
+.PHONY : maze_factory.cpp.obj
+
+maze_factory.i: maze_factory.cpp.i
+
+.PHONY : maze_factory.i
+
+# target to preprocess a source file
+maze_factory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\abstractfactory.dir\build.make CMakeFiles/abstractfactory.dir/maze_factory.cpp.i
+.PHONY : maze_factory.cpp.i
+
+maze_factory.s: maze_factory.cpp.s
+
+.PHONY : maze_factory.s
+
+# target to generate assembly for a file
+maze_factory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\abstractfactory.dir\build.make CMakeFiles/abstractfactory.dir/maze_factory.cpp.s
+.PHONY : maze_factory.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -181,6 +208,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... maze_factory.obj
+	@echo ... maze_factory.i
+	@echo ... maze_factory.s
 .PHONY : help
 
 

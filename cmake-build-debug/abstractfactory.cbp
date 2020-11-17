@@ -83,6 +83,12 @@
 		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/main.cpp">
 			<Option target="abstractfactory"/>
 		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/maze_factory.cpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/maze_factory.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
 		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
