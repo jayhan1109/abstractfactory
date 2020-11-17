@@ -80,13 +80,85 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/main.cpp">
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/door.hpp">
 			<Option target="abstractfactory"/>
 		</Unit>
-		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/maze_factory.cpp">
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/driver.cpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/e_door.cpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/e_door.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/e_maze.cpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/e_maze.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/e_maze_factory.cpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/e_maze_factory.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/e_room.cpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/e_room.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/e_wall.cpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/e_wall.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/f_door.cpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/f_door.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/f_maze.cpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/f_maze.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/f_maze_factory.cpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/f_maze_factory.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/f_room.cpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/f_room.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/f_wall.cpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/f_wall.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/maze.hpp">
 			<Option target="abstractfactory"/>
 		</Unit>
 		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/maze_factory.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/maze_game.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/room.hpp">
+			<Option target="abstractfactory"/>
+		</Unit>
+		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/wall.hpp">
 			<Option target="abstractfactory"/>
 		</Unit>
 		<Unit filename="C:/CST/Term3/oop/Labs/abstractfactory/CMakeLists.txt">

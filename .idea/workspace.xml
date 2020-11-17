@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="abstractfactory" targetName="abstractfactory" />
@@ -11,27 +29,48 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11969004-e88c-4c68-8aeb-1501554f834d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/abstractfactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maze_factory.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maze_factory.hpp" afterDir="false" />
+    <list default="true" id="11969004-e88c-4c68-8aeb-1501554f834d" name="Default Changelist" comment="Implement make_factory class">
+      <change afterPath="$PROJECT_DIR$/door.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_door.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_door.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_maze.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_maze.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_maze_factory.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_maze_factory.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_room.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_room.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_wall.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_wall.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f_door.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f_door.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f_maze.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f_maze.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f_maze_factory.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f_maze_factory.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f_room.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f_room.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f_wall.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f_wall.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze_game.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/room.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wall.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abstractfactory.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abstractfactory.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abstractfactory.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abstractfactory.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abstractfactory.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abstractfactory.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abstractfactory.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abstractfactory.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abstractfactory.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abstractfactory.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abstractfactory.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abstractfactory.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/abstractfactory.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/abstractfactory.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maze_factory.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maze_factory.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/maze_factory.hpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +100,15 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CST\Term3\oop\Labs\abstractfactory" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration name="abstractfactory" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="abstractfactory" TARGET_NAME="abstractfactory" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="abstractfactory" RUN_TARGET_NAME="abstractfactory">
@@ -86,12 +130,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605640831665</updated>
-      <workItem from="1605640832900" duration="708000" />
+      <workItem from="1605640832900" duration="5153000" />
+      <workItem from="1605646096894" duration="1821000" />
     </task>
+    <task id="LOCAL-00001" summary="Implement make_factory class">
+      <created>1605641562414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605641562414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implement make_factory class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement make_factory class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1192" y="315" key="FileChooserDialogImpl" timestamp="1605640840750">
@@ -106,5 +174,25 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1172" y="278" key="Github.UntrackedFilesDialog/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1605641017272" />
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1605647915362">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1605647915362" />
+    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1605647915362">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1605647915362" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1605647915362">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1605647915362" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1605647915362">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1605647915362" />
+    <state x="-1304" y="243" key="run.anything.popup" timestamp="1605647101770">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1304" y="243" key="run.anything.popup/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1605647101770" />
   </component>
 </project>
