@@ -9,9 +9,9 @@ void f_door::print() {
     std::cout << "This door has a soma pill for a handle. ";
 }
 
-f_door::f_door(room &room1, room &room2) {
+f_door::f_door(room &r1, room &r2) {
     print();
-    std::cout << "This door connects Dystopian Room " << r1 << " and Dystopian Room " << r2 << std::endl;
+    std::cout << "This door connects Dystopian Room " << r1.getRoomNum() << " and Dystopian Room " << r2.getRoomNum() << std::endl;
 }
 
 f_door::~f_door() {

@@ -11,4 +11,5 @@ private:
 public:
     f_room();
     void print() override;
+    int getRoomNum() override;
 };
