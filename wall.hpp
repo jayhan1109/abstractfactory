@@ -4,6 +4,8 @@
 
 #pragma once
 
+#include <vector>
+
 class wall {
 private:
 public:

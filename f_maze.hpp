@@ -15,7 +15,9 @@ public:
     ~f_maze();
 
     void add_room(room *r) override;
+
     void add_door(door *d) override;
-    void add_wall(wall *w) override;
+
+    void add_wall(room *r, wall *w) override;
 
 };

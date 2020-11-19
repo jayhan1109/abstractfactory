@@ -6,7 +6,6 @@
 #include "f_wall.hpp"
 
 f_wall::f_wall() {
-    print();
 }
 
 void f_wall::print() {

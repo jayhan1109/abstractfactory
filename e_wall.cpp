@@ -6,9 +6,8 @@
 #include "e_wall.hpp"
 
 e_wall::e_wall() {
-    print();
 }
 
 void e_wall::print() {
-    std::cout<<"This wall has faery wings on it"<<std::endl;
+    std::cout << "This wall has faery wings on it" << std::endl;
 }

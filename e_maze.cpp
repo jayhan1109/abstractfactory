@@ -18,8 +18,9 @@ void e_maze::add_door(door *d) {
     doors.push_back(d);
 }
 
-void e_maze::add_wall(wall *w) {
-    walls.push_back(w);
+void e_maze::add_wall(room *r, wall *w) {
+    r->walls.push_back(w);
+    w->print();
 }
 
 e_maze::~e_maze() {
